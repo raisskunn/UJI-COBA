@@ -1,0 +1,5 @@
+  <!-- Consider separating CSS into an external stylesheet for better maintainability and reusability across pages -->
+  <!-- The inline style in the download button (id="unduh") could be moved to the CSS block for cleaner HTML -->
+  <!-- Use <main> instead of multiple <section> tags directly under <body> for semantic HTML5 structure -->
+  <!-- Consider adding alt attributes if you introduce any images later for accessibility -->
+  <!-- The use of <h2> after <h1> is good, but check heading levels if more sections are added -->
